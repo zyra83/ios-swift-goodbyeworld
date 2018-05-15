@@ -1,4 +1,4 @@
 osx_image: xcode9.3
-language: objective-c
+language: swift
 xcode_project: GoodbyeWorld.xcodeproj # path to your xcodeproj folder
 xcode_scheme: GoodbyeWorldTests
